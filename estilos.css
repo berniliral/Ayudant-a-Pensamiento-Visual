@@ -1,0 +1,35 @@
+.letras{
+    color:gray;
+    font-style:italic;
+    font-size:18px;
+    background-color:lavender;
+    padding: 100 px;
+}
+
+.b{
+    color:black;
+    font-style:normal;
+    font-size:16px;
+    margin: 10 px 20 px;
+}
+
+.c{
+    color:black;
+    font-style:initial;
+    font-size:20px;
+    padding: 10 px;
+}
+
+.d{
+    color:blue;
+    font-style:unset;
+    font-size:20px;
+    padding: 10 px;
+}
+
+.f{
+    color:black;
+    font-style:unset;
+    font-size:25px;
+    padding: 10 px;
+}
